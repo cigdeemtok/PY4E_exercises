@@ -1,0 +1,3 @@
+Brüt ücreti hesaplamak için input() kullanarak kullanıcıdan çalışma saati alın. 40 saate kadar, her saat başına ücret 10 TL dir. 40 saatin üstüne çıkıldığında saat başına ücret 15 TL olmaktadır. Girilen saate göre ücreti hesaplayan bir kod yazınız.
+
+Test etmek için 30 saat değerini giriniz, sonuç 300 TL çıkmalı, ikincil test olarak 50 değerini giriniz, sonuç 750 TL çıkmalı.
